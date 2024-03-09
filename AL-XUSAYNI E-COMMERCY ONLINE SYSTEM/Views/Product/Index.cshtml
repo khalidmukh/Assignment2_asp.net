@@ -1,0 +1,29 @@
+﻿@model List<Product>
+
+<h2> HALKAN KA DALBO ALAABTA AAD RABTO</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th style="width:10%;">#</th>
+            <th style="width:30%;">Name</th>
+            <th style="width:10%;">Price</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+   @{
+        int counter = 1;
+    } 
+    @foreach (var product in Model)
+    {
+        <tr>
+             <td>@counter</td> 
+                <td> @product.Name </td>
+                <td>@product.Price</td>
+                <td>@product.Description <a href="@Url.Action("Order", "Product")" style="text-decoration:none; color:green; font-weight:bold;">Order</a></td>
+        </tr>
+            counter++;
+        }
+    </tbody>
+</table>

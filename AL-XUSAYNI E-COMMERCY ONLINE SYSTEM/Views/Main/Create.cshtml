@@ -1,0 +1,29 @@
+﻿@model Product;
+
+<h3>Create New Category</h3>
+<br />
+
+<form method="post"  asp-action="Create">
+
+    <div class="form-group">
+        <label class="form-label"> Product Id</label>
+        <input asp-for="Id" class="form-control" />
+
+        <label class="form-label"> Product Name</label>
+        <input asp-for="Name" class="form-control"/>
+
+        <label class="form-label"> Price </label>
+        <input asp-for="Price" class="form-control" />
+
+        <label class="form-label"> Description </label>
+        <input asp-for="Description" class="form-control" />
+
+        
+    </div>
+
+    <br /><br />
+
+    <a class="btn btn-danger"  asp-action="Index">Cancel</a>
+    <button type="submit" class="btn btn-primary">Save</button>
+
+</form>

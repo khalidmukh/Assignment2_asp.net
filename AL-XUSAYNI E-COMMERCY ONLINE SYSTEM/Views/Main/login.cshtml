@@ -1,0 +1,39 @@
+﻿@model Login;
+<body class="bg-info">
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-primary text-white-center">Login</div>
+                    <div class="card-body">
+                        <form action="" method="post">
+                            <div class="form-group">
+                                <label for="username">Username:</label>
+                                <input type="text" class="form-control" asp-for="Username" placeholder="Enter username" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="password">Password:</label>
+                                <input type="password" class="form-control" asp-for="Password" placeholder="Enter password" required>
+                            </div>
+                            <br />
+                            <input class="btn btn-primary" type="submit" value="Login" />
+                            @if (ViewData["error"] != "")
+                            {
+                                <h3 style="color:red;">@ViewData["error"]</h3>
+                            }
+                            <input class="btn btn-danger" style="text-align:right" type="reset" value="Exit" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+</body>

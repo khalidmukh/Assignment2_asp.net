@@ -1,0 +1,25 @@
+﻿@model Product;
+<body class="bg-info">
+<h3>Confirm: do you want to delete?</h3>
+<br />
+
+<form method="post"  asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+            <<label class="form-label"> Product Name</label>
+            <input asp-for="Name" class="form-control" disabled/>
+
+            <label class="form-label"> Price </label>
+            <input asp-for="Price" class="form-control" disabled/>
+
+            <label class="form-label"> Description </label>
+            <input asp-for="Description" class="form-control" disabled/>
+    </div>
+
+    <br /><br />
+
+    <a class="btn btn-primary"  asp-action="Index">Cancel</a>
+    <button type="submit" class="btn btn-danger">Yes, Delete !</button>
+
+</form>
+</body>

@@ -1,0 +1,33 @@
+﻿@model resource;
+<body class="bg-info">
+    <h3>Confirm: do you want to Order it?</h3>
+    <br />
+
+
+    <form method="post" asp-controller=" Product" asp-action="Order">
+        <label class="form-label"> Pro ID</label>
+        <input  asp-for="Id" disabled />
+        <div class="form-group">
+            <label class="form-label"> Order ID</label>
+            <input asp-for="OrderId" class="form-control" disabled />
+
+            <label class="form-label"> product Name</label>
+            <input asp-for="Name" class="form-control" disabled />
+
+            <label class="form-label"> product price</label>
+            <input asp-for="Price" class="form-control" disabled />
+
+            <label class="form-label"> product Description</label>
+            <input asp-for="Description" class="form-control" disabled />
+
+            <label class="form-label">  How Many product Quentity You Need </label>
+            <input asp-for="Quentity" class="form-control"  /> 
+        </div>
+
+        <br /><br />
+
+        <a class="btn btn-primary" asp-action="Index">Cancel</a>
+        <button type="submit" class="btn btn-success">Yes, Order !</button>
+
+    </form>
+</body>

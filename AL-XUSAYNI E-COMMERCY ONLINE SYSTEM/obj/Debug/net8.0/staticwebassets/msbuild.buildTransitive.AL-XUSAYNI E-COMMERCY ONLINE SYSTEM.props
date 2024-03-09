@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.props" />
+</Project>

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF69511-8C67-4969-8DB1-79769404EFA0}|AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.csproj|e:\\asp.assingment\\al-xusayni e-commercy online system\\al-xusayni e-commercy online system\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF69511-8C67-4969-8DB1-79769404EFA0}|AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.csproj|solutionrelative:al-xusayni e-commercy online system\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF69511-8C67-4969-8DB1-79769404EFA0}|AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.csproj|e:\\asp.assingment\\al-xusayni e-commercy online system\\al-xusayni e-commercy online system\\views\\product\\order_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACF69511-8C67-4969-8DB1-79769404EFA0}|AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.csproj|solutionrelative:al-xusayni e-commercy online system\\views\\product\\order_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF69511-8C67-4969-8DB1-79769404EFA0}|AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.csproj|e:\\asp.assingment\\al-xusayni e-commercy online system\\al-xusayni e-commercy online system\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF69511-8C67-4969-8DB1-79769404EFA0}|AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.csproj|solutionrelative:al-xusayni e-commercy online system\\controllers\\productcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF69511-8C67-4969-8DB1-79769404EFA0}|AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.csproj|e:\\asp.assingment\\al-xusayni e-commercy online system\\al-xusayni e-commercy online system\\views\\shared\\_topmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACF69511-8C67-4969-8DB1-79769404EFA0}|AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM.csproj|solutionrelative:al-xusayni e-commercy online system\\views\\shared\\_topmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_TopMenu.cshtml",
+              "DocumentMoniker": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Views\\Shared\\_TopMenu.cshtml",
+              "RelativeDocumentMoniker": "AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Views\\Shared\\_TopMenu.cshtml",
+              "ToolTip": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Views\\Shared\\_TopMenu.cshtml",
+              "RelativeToolTip": "AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Views\\Shared\\_TopMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T07:52:15.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order_list.cshtml",
+              "DocumentMoniker": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Views\\Product\\order_list.cshtml",
+              "RelativeDocumentMoniker": "AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Views\\Product\\order_list.cshtml",
+              "ToolTip": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Views\\Product\\order_list.cshtml",
+              "RelativeToolTip": "AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Views\\Product\\order_list.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T07:36:16.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Repository\\CategoryRepository.cs",
+              "ToolTip": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAAKYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T07:05:01.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController .cs",
+              "DocumentMoniker": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Controllers\\ProductController .cs",
+              "RelativeDocumentMoniker": "AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Controllers\\ProductController .cs",
+              "ToolTip": "E:\\ASP.ASSINGMENT\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Controllers\\ProductController .cs",
+              "RelativeToolTip": "AL-XUSAYNI E-COMMERCY ONLINE SYSTEM\\Controllers\\ProductController .cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:59:18.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
